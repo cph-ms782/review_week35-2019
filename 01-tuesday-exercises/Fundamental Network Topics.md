@@ -1,14 +1,17 @@
 * **What is your public IP address right now, and how did you find it?**
-    * 92.243.255.37
-    * By using _whois_
+    * Home: 92.243.255.37
+    * School: 5.179.80.204
+    * By using _whatismyipaddress.com_ or _whois_
 
 * **What is your private IP address right now (do this both at home and in school), and who/what gave you that address?**
-
+    * Home: 192.168.1.112  
+    * School:  
+    ifconfig
 
 * **What’s special about these address ranges?  
-__10.0.0.0 – 10.255.255.255  
-172.16.0.0 – 172.31.255.255  
-192.168.0.0 – 192.168.255.255__**  
+__10.0.0.0 – 10.255.255.255 - Class A  
+172.16.0.0 – 172.31.255.255 - Class B  
+192.168.0.0 – 192.168.255.255 - Class C__**  
 They are reserved ranges, for private networks
 
 * **What’s special about this ip-address: 127.0.0.1?**  
@@ -22,8 +25,9 @@ It's the address of localhost.
 80    HTTP  
 443   HTTPS**  
 
-* **What is the IP address of studypoints.dk and how did you find it?**
-
+* **What is the IP address of studypoints.dk and how did you find it?**  
+138.197.250.151  
+traceroute studypoint.dk
 
 * **If you write https://studypoints.dk in your browser, how did “it” figure out that it should go to the IP address you discovered above?**  
 It called the nearest DNS server for the IP address. If it couldn't find it, it called the next up till the ROOT NAME server.
