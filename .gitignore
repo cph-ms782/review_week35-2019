@@ -50,6 +50,7 @@ nbbuild/
 dist/
 nbdist/
 .nb-gradle/
+target/
 #persistence.xml
 
 # Dump file
