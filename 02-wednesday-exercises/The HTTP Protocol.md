@@ -24,6 +24,11 @@ r.html: 200
 
 3a)    
 
+4a)  
+500
+
+4b)  
+404
 
 
 **Exercises:**  
@@ -44,3 +49,13 @@ Sec-Fetch-Site: none
 3a)  
 http://studypoint.info sender videre til https://studypoint.info
 Altså en sikret side.
+
+4b)  
+Status: 404  
+
+4c)   
+200 Successful responses  
+300 Redirects  
+400 Client errors  
+500 Server errors  
+
