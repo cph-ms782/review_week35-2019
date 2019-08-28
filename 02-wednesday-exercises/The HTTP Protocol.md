@@ -67,4 +67,5 @@ Status: 404
 **Browser (GET):** http://localhost:8080/ex1/new.html?hidden=12345678&gender=Hans&gender=Petersen#  
 
 **Browser (POST):** http://localhost:8080/ex1/new.html#  
+Ved POST er der et ekstra felt POST data.
 
