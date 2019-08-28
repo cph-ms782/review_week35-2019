@@ -59,3 +59,12 @@ Status: 404
 400 Client errors  
 500 Server errors  
 
+5)  
+[Link til java](ex1/src/main/java/cookie.java)
+
+6)  
+[Link til html](ex1/src/main/webapp/new.html)  
+**Browser (GET):** http://localhost:8080/ex1/new.html?hidden=12345678&gender=Hans&gender=Petersen#  
+
+**Browser (POST):** http://localhost:8080/ex1/new.html#  
+
