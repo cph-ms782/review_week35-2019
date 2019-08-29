@@ -1,13 +1,6 @@
-##The HTTP Protocol
+## The HTTP Protocol
 
 [Back to readme](../README.md)  
-
-Læringsmål:  
-Forklare begrebet HTTP Headers og demonstere udvalgte headers via en browsers NetVærksvindue  
-Kunne læse og skrive henholdsvis Request og Response Headers på server  
-Kunne forklare om HTTP statuskoder og de forskellige ranges 2xx, 3xx, 4xx og 5xx
-Kunne forklare ideen med og _demonstrere hvordan HTTP tillader_ Sessions (state) oven på en stateles protokol  
-Kunne forklare ideen med og _demonstrere brug af HTTP-cookies_  
 
 **Statuscodes:**  
 1)  
@@ -32,8 +25,8 @@ r.html: 200
 404
 
 
-**Exercises:**  
-1) [Link til folder](ex1/src/main/webapp/index.html)  
+### Exercises:
+1) [Link til folder](ex1/src/main/webapp/)  
 Der er request or response headers  
 **Request:** Der vises metode, sti og protokol version  
 Derefter en masse felter med dertilhørende værdier  

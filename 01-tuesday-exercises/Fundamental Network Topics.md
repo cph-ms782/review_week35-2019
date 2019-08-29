@@ -39,19 +39,28 @@ It called the nearest DNS server for the IP address. If it couldn't find it, it 
     * The IP address is the path and address for a device.
     * The port is for handling different apps on the device
 
-* **What is your (nearest) DNS server?**
+* **What is your (nearest) DNS server?**  
+I use openDNS, but the nearest would be your ISP's server  
 
-* **What is (conceptually) the DNS system and the purpose with a DNS Server?**
+* **What is (conceptually) the DNS system and the purpose with a DNS Server?**  
+To translate an IP address into an worded address
 
-* **What is your current Gateway, and how did you find it?**
+* **What is your current Gateway, and how did you find it?**  
+192.168.1.1  
+Going into my network manager  
 
 * **What is the address of your current DHCP-Server, and how did you find it?**
+192.168.1.1  
+Going into my network manager  
 
 * **Explain (conceptually) about the TCP/IP-protocol stack**
-
-* **Explain about the HTTP Protocol (the following exercises will go much deeper into this protocol)**
+TCP (transport layer) is responsible for dividing files and text into packets that can be transported.  
+IP is the address  
+* **Explain about the HTTP Protocol (the following exercises will go much deeper into this protocol)**  
+This protocol defines how messages are formatted and transmitted, and what actions Web servers and browsers should take in response to various commands. 
 
 * **Explain (conceptually) how HTTP and TCP/IP are connected (what can HTTP do, and where does it fit into TCP/IP)**
+
 
 [Back to readme](../README.md)  
 
