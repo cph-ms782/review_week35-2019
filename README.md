@@ -1,12 +1,18 @@
-review_week35-2019
+#Review uge 35-2019
 
-__Skole public ip:__  
-Your IP address is 5.179.80.204
+##1-tuesday  
+**Fundamental Network Topics**  
+[Link](01-tuesday-exercises/Fundamental Network Topics.md)
 
-__traceroute studypoint:__  
-traceroute studypoint.dk
-138.197.250.151
+##2-wednesday  
+**The HTTP Protocol**  
+[Link](02-wednesday-exercises/The HTTP Protocol.md)
 
-__DNS?__  
-kbn-b3-link.telia.net (62.115.156.186) 
+##3-thursday  
+**Nginx, domain name and certificate  **  
+[Link der virker - http://sandersolutions.dk/](http://sandersolutions.dk/)  
+[Link der **ikke** virker - http://sandersolutions.dk:8080/](http://sandersolutions.dk:8080/)
+
+
+
 

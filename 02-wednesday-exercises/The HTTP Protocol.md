@@ -1,5 +1,7 @@
 ##The HTTP Protocol
 
+[Back to readme](../README.md)  
+
 Læringsmål:  
 Forklare begrebet HTTP Headers og demonstere udvalgte headers via en browsers NetVærksvindue  
 Kunne læse og skrive henholdsvis Request og Response Headers på server  
@@ -20,7 +22,6 @@ CSS: 200
 **http://localhost:8080/ex1/redirect**  
 redirect: 302  
 r.html: 200
-
 
 3a)    
 
@@ -68,4 +69,6 @@ Status: 404
 
 **Browser (POST):** http://localhost:8080/ex1/new.html#  
 Ved POST er der et ekstra felt POST data.
+
+[Back to readme](../README.md)  
 

@@ -1,3 +1,6 @@
+##Fundamental Network Topics
+[Back to readme](../README.md)  
+
 * **What is your public IP address right now, and how did you find it?**
     * Home: 92.243.255.37
     * School: 5.179.80.204
@@ -5,7 +8,7 @@
 
 * **What is your private IP address right now (do this both at home and in school), and who/what gave you that address?**
     * Home: 192.168.1.112  
-    * School:  
+    * School:5.179.80.204  
     ifconfig
 
 * **What’s special about these address ranges?  
@@ -50,4 +53,5 @@ It called the nearest DNS server for the IP address. If it couldn't find it, it 
 
 * **Explain (conceptually) how HTTP and TCP/IP are connected (what can HTTP do, and where does it fit into TCP/IP)**
 
+[Back to readme](../README.md)  
 
