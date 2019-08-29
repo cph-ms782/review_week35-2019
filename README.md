@@ -2,11 +2,11 @@
 
 ## 1-tuesday
 **Fundamental Network Topics**  
-[Link](tree/master/01-tuesday-exercises/Fundamental Network Topics.md)
+ [Link](https://github.com/cph-ms782/review_week35-2019/tree/master/01-tuesday-exercises/Fundamental Network Topics.md)
 
 ## 2-wednesday
 **The HTTP Protocol**  
-[Link](tree/master/01-tuesday-exercises/The HTTP Protocol.md)
+ [Link](https://github.com/cph-ms782/review_week35-2019/tree/master/01-tuesday-exercises/The HTTP Protocol.md)
 
 ## 3-thursday
 **Nginx, domain name and certificate**  
