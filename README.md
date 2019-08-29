@@ -6,7 +6,7 @@
 
 ## 2-wednesday
 **The HTTP Protocol**  
- [Link](https://github.com/cph-ms782/review_week35-2019/tree/master/01-tuesday-exercises/The%20HTTP%20Protocol.md)
+ [Link](https://github.com/cph-ms782/review_week35-2019/tree/master/02-wednesday-exercises/The%20HTTP%20Protocol.md)
 
 ## 3-thursday
 **Nginx, domain name and certificate**  
