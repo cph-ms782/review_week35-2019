@@ -1,4 +1,4 @@
-##Fundamental Network Topics
+##Fundamental Network Topics  
 [Back to readme](../README.md)  
 
 * **What is your public IP address right now, and how did you find it?**
@@ -49,7 +49,7 @@ To translate an IP address into an worded address
 192.168.1.1  
 Going into my network manager  
 
-* **What is the address of your current DHCP-Server, and how did you find it?**
+* **What is the address of your current DHCP-Server, and how did you find it?**  
 192.168.1.1  
 Going into my network manager  
 

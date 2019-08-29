@@ -12,7 +12,6 @@ Image: 200
 CSS: 200  
 
 3)  
-**http://localhost:8080/ex1/redirect**  
 redirect: 302  
 r.html: 200
 
